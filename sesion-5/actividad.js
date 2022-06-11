@@ -9,4 +9,4 @@ let alturaRound = Math.round(alturaMts);
 // - Una variable que contenga tu peso en kilogramos redondeado hacia abajo
 let pesoFloor = Math.floor(pesoKg);
 //  Una variable que contenga si "el máximo valor que se puede obtener en Javascript + 1" es igual al máximo valor que se puede obtener en Javascript
-let max = "el maximo valor que se puede obtener en JavaScript + 1" = Number.MAX_VALUE
+let sonIguales = Number.MAX_VALUE + 1 === Number.MAX_VALUE
