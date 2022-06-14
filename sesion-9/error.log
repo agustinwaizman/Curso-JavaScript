@@ -1,0 +1,2 @@
+{"level":"error","message":"El valor de e es: Error: el valor debe ser de tipo numero","service":"user-service"}
+{"level":"error","message":"ALGO ANDA MAL!","service":"user-service"}
