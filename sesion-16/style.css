@@ -1,0 +1,28 @@
+.seccion {
+    background-color: darkslategray;
+    padding: 1rem;
+    margin: 1rem;
+}
+.parrafo {
+    background-color: white;
+    padding: 1rem;
+    transition: .4s;
+}
+.parrafo:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 0px 15px #000;
+}
+.dragging {
+    opacity: 0.5;
+}
+.imagen-fantasma{
+    width: 500px;
+    height: 30px;
+    background-color: red;
+    position: absolute;
+    left: -100vw;
+}
+.papelera {
+    display: flex;
+    justify-content: center;
+}
